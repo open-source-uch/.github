@@ -1,7 +1,7 @@
 <h1 align="center">¡Bienvenid@ a Open Source UCH! 👋</h1>
 
 <p align="center">
-  <img src="../assets/logo.png" alt="Open Source UCH Logo" />
+  <img src="assets/logo.png" alt="Open Source UCH Logo" />
 </p>
 
 Open Source UCH es una comunidad de estudiantes de la **Universidad de Chile** que colabora en el desarrollo de **proyectos de código abierto** con el objetivo de generar un impacto positivo en la sociedad. Nos enfocamos en promover el **trabajo en equipo**, el **aprendizaje continuo**, y la **exploración de nuevas herramientas** para impulsar nuestros proyectos.
