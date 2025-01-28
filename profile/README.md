@@ -17,8 +17,11 @@ Open Source UCH es una comunidad de estudiantes de la **Universidad de Chile** q
   <a href="https://t.me/+PLukDCY-io5hNjNh/" target="_blank">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-2E3440?style=for-the-badge&logo=Telegram&logoColor=white" height="25px">
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/company/open-source-uch/" target="_blank">
     <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
+  </a>
+  <a href="https://discord.com/invite/Dpw9VuNb" target="_blank">
+    <img title="Discord" src="https://img.shields.io/badge/Discord-2E3440?style=for-the-badge&logo=discord&logoColor=white" height="25px">
   </a>
 </p>
 
